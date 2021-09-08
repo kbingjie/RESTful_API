@@ -2,7 +2,7 @@
 >EF Core ORM, ASP.NET Core, MVC, RESTful APIs, C#, PostgreSql
 
 ### Application Architecture
-<img src="/images/App_Architecture.png" alt="App_Architecture" width="600"/>
+<img src="/image/App_Architecture.png" alt="App_Architecture" width="600"/>
 
 
 ### CRUD Features
